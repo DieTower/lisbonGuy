@@ -1,0 +1,21 @@
+footer {
+    grid-column:4/5;
+    grid-row:5/6;
+
+    font-size:16px;
+
+    z-index:3;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+footer .skills {
+    color:#ffffff;
+    font-size:2em;
+    margin-left:45px;
+    margin-bottom:5px;
+    padding:10px;
+    cursor:pointer;
+}

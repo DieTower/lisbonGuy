@@ -1,0 +1,15 @@
+@media(max-width:420px) {
+    .container {
+        background-position:cover !important;
+    }
+
+    .profileContainer, .skillsContainer {
+        min-width:none;
+        min-height:none;
+    
+        width:100%;
+        height:60%;
+    }
+
+
+}
